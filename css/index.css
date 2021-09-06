@@ -29,6 +29,10 @@ a::before {
   margin-right: 10px;
 }
 
+a:hover{
+  color: yellow;
+}
+
 #button {
   display: inline-block;
   background-color: #f25a70;
